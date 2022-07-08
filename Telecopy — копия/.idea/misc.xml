@@ -11,10 +11,11 @@
         <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.196" />
         <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/drawable/ic_create_channel.xml" value="0.196" />
         <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/drawable/ripple_effect.xml" value="0.2425" />
         <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/layout/fragment_chat.xml" value="0.33" />
         <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/layout/fragment_chat2.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/layout/fragment_settings.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/hello/Desktop/Telecopy/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
       </map>
     </option>
   </component>
