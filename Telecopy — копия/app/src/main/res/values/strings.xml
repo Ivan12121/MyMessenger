@@ -11,4 +11,20 @@
     <string name="settings_label_login">Имя пользователя</string>
     <string name="settings_about_me">О себе</string>
     <string name="settings_label_about_me">Напишите немного о себе</string>
+    <string name="settings_menu_chahge_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
+    <string name="cd_register_image">register_image</string>
+    <string name="register_text_enter_code">Введите код</string>
+    <string name="register_text_send_code">Мы отправили вам смс с кодом проверки на ваш телефон</string>
+    <string name="register_hint_default_code">_ _ _ _ _ _</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="register_toast_enter_phone">Введите номер телефона</string>
+    <string name="register_hint_phone_number">_ _ _ - _ _ _ - _ _ - _ _</string>
+    <string name="settings_hint_input_name">Имя</string>
+    <string name="settings_hint_input_surname">Фамилия</string>
+    <string name="settings_toast_name_isEmpty">Имя не должно быть пустым</string>
+    <string name="toast_data_update">Данные обновленны</string>
+    <string name="settings_hint_input_username">username</string>
+    <string name="toast_username_is_exist">Такой username уже есть</string>
+    <string name="settings_input_info">Введите информацию о себе</string>
 </resources>

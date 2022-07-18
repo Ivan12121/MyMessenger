@@ -7,11 +7,13 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.telecopy.R
 import com.example.telecopy.databinding.FragmentChatBinding
-class ChatFragment : BaseFragment(R.layout.fragment_chat) {
+import com.example.telecopy.utulits.APP_ACTIVITY
+
+class ChatFragment : Fragment(R.layout.fragment_chat) {
 
     override fun onResume() {
         super.onResume()
-
+        APP_ACTIVITY.title = "Чаты"
     }
 
 }

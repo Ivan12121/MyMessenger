@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#818181</color>
     <color name="light_grey">#C3C3C3</color>
+    <color name="light_green">#AFE393</color>
+    <color name="light_blue_bg">#416E80</color>
 
     <color name="light_blue">#149CDC</color>
     <color name="found">#034993</color>

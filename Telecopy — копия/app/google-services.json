@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237085518978",
+    "firebase_url": "https://telecopy-ce905-default-rtdb.firebaseio.com",
+    "project_id": "telecopy-ce905",
+    "storage_bucket": "telecopy-ce905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237085518978:android:c52ae5e781a3ac6164189b",
+        "android_client_info": {
+          "package_name": "com.example.telecopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237085518978-9c2gcu9nibfogjg1pdatr6ekis3niocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbpkEjM8QRLX9-_D3-w_smCWAVDpgxvvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237085518978-9c2gcu9nibfogjg1pdatr6ekis3niocq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
